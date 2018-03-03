@@ -1,0 +1,110 @@
+﻿<Window x:Class="SoSoManyStrPut.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SoSoManyStrPut"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="525">
+    <Grid Margin="0,10,0,0">
+        <TextBox Name="StrList"
+                 HorizontalAlignment="Left"
+                 Height="30"
+                 Margin="125,0,0,0"
+                 TextWrapping="Wrap"
+                 Text="0"
+                 VerticalAlignment="Top"
+                 Width="200"/>
+        <Label Content="StructureList"
+               HorizontalAlignment="Left"
+               Margin="20,0,0,0"
+               VerticalAlignment="Top"/>
+
+        <TextBox Name="StartD"
+                 HorizontalAlignment="Left"
+                 Height="30"
+                 Margin="125,50,0,0"
+                 TextWrapping="Wrap"
+                 Text="0"
+                 VerticalAlignment="Top"
+                 Width="200"/>
+        <Label Content="開始距離"
+               HorizontalAlignment="Left"
+               Margin="20,50,0,0"
+               VerticalAlignment="Top"/>
+
+        <TextBox Name="EndD"
+                 HorizontalAlignment="Left"
+                 Height="30"
+                 Margin="125,100,0,0"
+                 TextWrapping="Wrap"
+                 Text="0"
+                 VerticalAlignment="Top"
+                 Width="200"/>
+        <Label Content="終了距離"
+               HorizontalAlignment="Left"
+               Margin="20,100,0,0"
+               VerticalAlignment="Top"/>
+
+        <TextBox Name="StrName"
+                 HorizontalAlignment="Left"
+                 Height="30"
+                 Margin="125,150,0,0"
+                 TextWrapping="Wrap"
+                 Text="0"
+                 VerticalAlignment="Top"
+                 Width="200"/>
+        <Label Content="ストラクチャ名"
+               HorizontalAlignment="Left"
+               Margin="20,150,0,0"
+               VerticalAlignment="Top"/>
+
+        <TextBox Name="Kank"
+                 HorizontalAlignment="Left"
+                 Height="30"
+                 Margin="125,200,0,0"
+                 TextWrapping="Wrap"
+                 Text="0"
+                 VerticalAlignment="Top"
+                 Width="200"/>
+        <Label Content="配置間隔"
+               HorizontalAlignment="Left"
+               Margin="20,200,0,0"
+               VerticalAlignment="Top"/>
+
+        <TextBox Name="SameS"
+                 HorizontalAlignment="Left"
+                 Height="30"
+                 Margin="125,250,0,0"
+                 TextWrapping="Wrap"
+                 Text="0"
+                 VerticalAlignment="Top"
+                 Width="200"/>
+        <Label Content="同時配置数"
+               HorizontalAlignment="Left"
+               Margin="20,250,0,0"
+               VerticalAlignment="Top"/>
+
+        <TextBox Name="SamesD"
+                 HorizontalAlignment="Left"
+                 Height="30"
+                 Margin="125,300,0,0"
+                 TextWrapping="Wrap"
+                 Text="1"
+                 VerticalAlignment="Top"
+                 Width="200"/>
+        <Label Content="自他間隔"
+               HorizontalAlignment="Left"
+               Margin="20,300,0,0"
+               VerticalAlignment="Top"/>
+        
+        <Button Click="DropB"
+                Content="Drop☆"
+                HorizontalAlignment="Left"
+                Height="22.492"
+                Margin="386.847,107.508,0,0"
+                VerticalAlignment="Top"
+                Width="100.114"/>
+        <CheckBox Name="Kaigyo" IsChecked="True" Content="文ごとに改行？" HorizontalAlignment="Left" Margin="364.421,75.96,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

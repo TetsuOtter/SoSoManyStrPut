@@ -1,0 +1,15 @@
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\bin\Debug\SoSoManyStrPut.exe.config
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\bin\Debug\SoSoManyStrPut.exe
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\bin\Debug\SoSoManyStrPut.pdb
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\obj\Debug\SoSoManyStrPut.csprojResolveAssemblyReference.cache
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\obj\Debug\MainWindow.g.cs
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\obj\Debug\App.g.cs
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\obj\Debug\SoSoManyStrPut_MarkupCompile.cache
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\obj\Debug\SoSoManyStrPut_MarkupCompile.lref
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\obj\Debug\MainWindow.baml
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\obj\Debug\SoSoManyStrPut.g.resources
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\obj\Debug\SoSoManyStrPut.Properties.Resources.resources
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\obj\Debug\SoSoManyStrPut.csproj.GenerateResource.Cache
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\obj\Debug\SoSoManyStrPut.csproj.CoreCompileInputs.cache
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\obj\Debug\SoSoManyStrPut.exe
+C:\Users\Tetsu_Otter\Source\Repos\SoSoManyStrPut\SoSoManyStrPut\obj\Debug\SoSoManyStrPut.pdb

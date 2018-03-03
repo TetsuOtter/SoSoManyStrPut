@@ -1,0 +1,24 @@
+BveTs Map 2.02:shift_jis
+Structure.Load('0');
+0;
+Structure['0'].Put(0, 0, 0, 0, 0, 0, 0, 1, 1);
+1;
+Structure['0'].Put(0, 0, 0, 0, 0, 0, 0, 1, 1);
+2;
+Structure['0'].Put(0, 0, 0, 0, 0, 0, 0, 1, 1);
+3;
+Structure['0'].Put(0, 0, 0, 0, 0, 0, 0, 1, 1);
+4;
+Structure['0'].Put(0, 0, 0, 0, 0, 0, 0, 1, 1);
+5;
+Structure['0'].Put(0, 0, 0, 0, 0, 0, 0, 1, 1);
+6;
+Structure['0'].Put(0, 0, 0, 0, 0, 0, 0, 1, 1);
+7;
+Structure['0'].Put(0, 0, 0, 0, 0, 0, 0, 1, 1);
+8;
+Structure['0'].Put(0, 0, 0, 0, 0, 0, 0, 1, 1);
+9;
+Structure['0'].Put(0, 0, 0, 0, 0, 0, 0, 1, 1);
+10;
+Structure['0'].Put(0, 0, 0, 0, 0, 0, 0, 1, 1);
