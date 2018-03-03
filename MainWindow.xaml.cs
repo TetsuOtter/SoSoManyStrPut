@@ -149,14 +149,14 @@ namespace SoSoManyStrPut
             return;
             
         }
-        string StrPut(double y)
+        string StrPut(double x)
         {
             string Nm = 
                 "Structure['"+
                 StName+
-                "'].Put(0, 0, "+
-                y.ToString()+
-                ", 0, 0, 0, 0, "+
+                "'].Put(0, "+
+                x.ToString()+
+                ", 0, 0, 0, 0, 0, "+
                 RepDist.ToString()+
                 ", "+
                 RepDist.ToString()+
